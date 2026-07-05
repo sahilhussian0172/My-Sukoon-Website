@@ -1,4 +1,4 @@
-const PASSWORD = "Sahil@123";
+/*const PASSWORD = "Sahil@123";
 
 const userPassword = prompt("Enter Password");
 
@@ -17,7 +17,7 @@ if (userPassword !== PASSWORD) {
         </div>
     `;
     throw new Error("Wrong Password");
-}
+}*/
 /*====================================
 ELEMENTS
 ====================================*/
